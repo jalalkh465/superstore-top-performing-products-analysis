@@ -14,6 +14,7 @@ The goal of this project is to:
 ## Dataset
 
 The dataset used in this project is the Superstore Sales data, which includes sales information for various products.
+Link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## Steps
 
